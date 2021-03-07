@@ -1,2 +1,2 @@
 # Guess-Game-Cplusplus
-This game is developed in C++ using nested if else statement.
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This game is developed in C++ using nested if else statement. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
